@@ -1,0 +1,78 @@
+I2_road.png X4
+Reversed_I2_road.png X4
+
+T1_road.png X5
+Reversed_T1_road.png X5
+
+Roundabout.png X5
+Reversed_Roundabout.png X5
+
+T2_road.png X5
+Reversed_T2_road.png X5
+
+I1_road.png X3
+Reversed_I1_road.png X3
+
+L1_road.png X5
+Reversed_L1_road.png X5
+
+L2_road.png X4
+Reversed_L2_road.png X4
+
+Blocked_road_1.png X1
+Reversed_Blocked_road_1.png X1
+
+Blocked_road_2.png X1
+Reversed_Blocked_road_2.png X1
+
+Blocked_road_3.png X1
+Reversed_Blocked_road_3.png X1
+
+Blocked_road_4.png X1
+Reversed_Blocked_road_4.png X1
+
+Blocked_road_5.png X1
+Reversed_Blocked_road_5.png X1
+
+Blocked_road_6.png X1
+Reversed_Blocked_road_6.png X1
+
+Blocked_road_7.png X1
+Reversed_Blocked_road_7.png X1
+
+Destroy.png X3
+
+Destroy.png X3
+
+Block_minecart.png X3
+
+Block_lamp.png X3
+
+Block_pickaxe.png X3
+
+Unlock_minecart.png X2
+
+Unlock_lamp.png X2
+
+Unlock_pickaxe.png X2
+
+Unlock_lamp_minecrat.png X1
+
+Unlock_pickaxe_lamp.png X1
+
+Unlock_pickaxe_minecart.png X1
+
+Finish_GOLD.png X1
+
+Finish1.png X1
+Reversed_Finish1.png X1
+
+Finish2.png X1
+Reversed_Finish2.png X1
+
+Strairs.png X1
+
+TOTAL 68
+
+
+
